@@ -1,0 +1,32 @@
+{
+  "name": "u3",
+  "version": "0.1.0",
+  "description": "u3 - Utility Functions",
+  "keywords": [
+    "utility functions"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "László Lajos Jánszky"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inf3rno/u3"
+  },
+  "main": "index.js",
+  "ignore": [
+    ".idea/",
+    "node_modules/",
+    ".gitignore",
+    ".npmignore",
+    "package.json"
+  ],
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
