@@ -67,4 +67,4 @@ You can use any dimension and number of alternatives. In the current example we 
 
 ## License
 
-MIT - 2015 Jánszky László Lajos
+MIT - 2016 Jánszky László Lajos
